@@ -1,1 +1,1 @@
-# Imageclassification
+# Imageclassification using Convolutional Neural Networks (CNN)
